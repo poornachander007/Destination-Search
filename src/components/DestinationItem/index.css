@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+img {
+  width: 250px;
+}
+.card {
+  list-style: none;
+  margin-right: 10px;
+}
